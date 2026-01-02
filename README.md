@@ -13,7 +13,7 @@
 
 Full Stack Developer with **3+ years of experience** building scalable, high-performance web applications and backend systems.  
 Strong in **JavaScript, React, Node.js, Microservices, AWS**, and **system design**.  
-Passionate about building reliable production systems and using **AI + automation** to improve developer productivity.
+Passionate about building reliable production systems and using **AI + automation** to boost developer productivity.
 
 Currently working as **SDE-3 (Full Stack) at BrowserStack**.
 
@@ -21,23 +21,50 @@ Currently working as **SDE-3 (Full Stack) at BrowserStack**.
 
 ## 🧠 Tech Stack
 
-**Languages:**  
-JavaScript · TypeScript · Python · Go · C++ · SQL
+### 👨‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-**Frontend:**  
-React.js · HTML5 · CSS3 · Tailwind CSS
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
 
-**Backend:**  
-Node.js · Express.js · REST APIs · WebSockets · Microservices · Kafka · BullMQ
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+</p>
 
-**Databases:**  
-MongoDB · PostgreSQL · Redis
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
-**Cloud & DevOps:**  
-AWS · Docker · Kubernetes · CI/CD
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
-**AI & Automation:**  
-GitHub Copilot · MCPs · AI-assisted workflows
+### 🤖 AI & Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -55,10 +82,10 @@ GitHub Copilot · MCPs · AI-assisted workflows
 ---
 
 ### redBus — Software Development Engineer | 2022 – 2024
-- Built reusable UI components for the **booking funnel**
+- Built reusable UI components for the booking funnel
 - Led chatbot redesign improving **CSAT by 40%**
-- Integrated **Generative AI** to improve chatbot response quality
-- Collaborated with cross-functional teams for scalable frontend delivery
+- Integrated **Generative AI** to improve chatbot responses
+- Collaborated with cross-functional teams
 
 **Tech:** React.js, JavaScript, Node.js, REST APIs
 
@@ -69,7 +96,7 @@ GitHub Copilot · MCPs · AI-assisted workflows
 ### Gemini Nano Wrapper (Open Source)
 - Open-source npm library for **single-line AI prompting**
 - Lightweight abstraction over **Google Gemini Nano**
-- **250+ downloads** with complete documentation
+- **250+ downloads** with documentation
 
 **Tech:** TypeScript
 
@@ -77,7 +104,7 @@ GitHub Copilot · MCPs · AI-assisted workflows
 
 ### Infarmio
 - Android app helping farmers identify sustainable remedies for crop diseases
-- Backend built using **Firebase & Firestore** for real-time access
+- Real-time backend using **Firebase & Firestore**
 
 **Tech:** Java, Firebase, Firestore, Android
 
@@ -94,9 +121,9 @@ GitHub Copilot · MCPs · AI-assisted workflows
 
 ## ✨ Current Focus
 
-- Building **production-grade systems**
-- Backend scalability & system design
-- AI-powered developer tooling
+- Production-grade backend systems
+- System design & scalability
+- AI-powered developer tools
 - Open-source contributions
 
 ---
