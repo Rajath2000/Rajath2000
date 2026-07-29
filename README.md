@@ -1,6 +1,6 @@
 <h1 align="center">Rajath M R 👨‍💻</h1>
 <p align="center">
-  🚀 Full Stack Developer • 🧠 System Thinker • ⚙️ Builder
+  🚀 Full Stack Engineer • 🤖 AI-Assisted Engineering • ⚙️ Automation
 </p>
 
 <p align="center">
@@ -12,39 +12,47 @@
 
 ## ⚡ Who Am I?
 
-I build **scalable web systems**, design **clean architectures**, and enjoy solving **production-level problems**.
+I build **scalable web applications**, design **accessibility tooling**, and develop **distributed backend systems**. My recent focus involves solving high-impact engineering problems using **AI-assisted workflows, MCP, RAG, and agentic automation** to measurably reduce manual effort.
 
-💼 SDE-3 @ BrowserStack  
-🧠 3+ years in Full Stack Development  
-🤖 Exploring AI-powered developer tooling  
+💼 SDE-3 (Full Stack) @ BrowserStack  
+🧠 4+ years of experience in Full Stack Development  
+🤖 Building AI workflows with Claude Code, MCP & RAG
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,react,nodejs,express,mongodb,postgres,redis,aws,docker,kubernetes,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,react,tailwind,nodejs,express,mongodb,postgres,redis,aws,docker,kubernetes,github" />
 </p>
+
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, WebSockets, Microservices, BullMQ
+- **Databases:** PostgreSQL, MongoDB, Redis, BigQuery
+- **Cloud & Monitoring:** AWS, Docker, Kubernetes, Grafana, ELK, Cloudflare, Arize Phoenix
+- **AI Engineering:** Claude Code, GitHub Copilot, MCP, RAG, LangChain, ChromaDB, GPT-4o, FastAPI, Streamlit, Ollama
 
 ---
 
 ## 🧩 Experience Snapshot
 
-**BrowserStack (2024 – Present)**  
-- Accessibility detection systems  
-- Production reliability & on-call  
-- React + Node microservices  
+**BrowserStack** (SDE-3)  
+- Developed custom-element accessibility-detection algorithms with 95%+ accuracy.
+- Built AI-assisted engineering workflows using Claude Code, MCP, and internal automation.
+- Completely re-architected rendering pipelines using SVG overlays, achieving a 60× performance improvement.
+- Optimized backend latency by 30% through redesigned in-memory caching.
 
-**redBus (2022 – 2024)**  
-- Booking funnel UI  
-- AI-powered chatbot (CSAT +40%)  
+**redBus** (SDE)  
+- Led the redesign of the AI-powered redBus chatbot, introducing a modular architecture that improved CSAT by 40%.
+- Integrated Generative AI capabilities into the chatbot system to reduce dependency on manual support.
+- Developed end-to-end chatbot features for a cross-platform Progressive Web App (PWA).
 
 ---
 
 ## 🚀 Featured Work
 
-🔹 **Gemini Nano Wrapper** – Open-source AI prompt SDK  
-🔹 **Infarmio** – Android app for sustainable farming  
+🔹 **Email MCP Server** – Open-source, production-ready Model Context Protocol (MCP) Server for secure email interactions.  
+🔹 **Gemini Nano Wrapper** – Open-source npm library simplifying AI prompting with a lightweight abstraction layer.  
 
 ---
 
